@@ -5,3 +5,4 @@ description = "LaTeX manuscript workflows with five agent skills, project diagno
 requires-python = ">=3.10"
 # match the style used in the rest of the module
 # keep defaults in sync with the manifest
+# match the style used in the rest of the module
